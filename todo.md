@@ -1,0 +1,6 @@
+- DONE: Write structure for joystick curves
+- Fill out structure for joystick curves
+- Define sides of drive & other motors
+- Write structure for PID controller
+- Fill out structure for PID controller
+- Implement PID controller with inertial
